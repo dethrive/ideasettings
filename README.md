@@ -1,1 +1,2 @@
-# ideasettings
+# idea settings
++ color schema
